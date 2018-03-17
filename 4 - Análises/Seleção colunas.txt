@@ -1,0 +1,28 @@
+ID 	= Descartar coluna
+NUMERO_BOLETIM	= Descartar coluna (no python ou no sql)
+DATAELABORACAO = Descartar coluna (no python ou no sql)
+DESDOBRAMENTO	= Descartar coluna (no python ou no sql)
+NOMEPESSOA	= Descartar coluna
+TIPOPESSOA	= Descartar coluna	
+VITIMAFATAL	= Descartar coluna
+RG		= Descartar coluna
+RG_UF		= Descartar coluna
+NATURALIDADE	= Descartar coluna
+NACIONALIDADE	= Descartar coluna
+SEXO		= Descartar coluna
+DATANASCIMENTO		= Descartar coluna
+IDADE		= Descartar coluna
+ESTADOCIVIL		= Descartar coluna
+PROFISSAO		= Descartar coluna
+GRAUINSTRUCAO		= Descartar coluna
+CORCUTIS		= Descartar coluna
+NATUREZAVINCULADA	= Descartar coluna
+TIPOVINCULO		= Descartar coluna 
+PLACA_VEICULO 	= Descartar NaN - nulls	
+UF_VEICULO	= Descartar NaN - nulls
+CIDADE_VEICULO	
+DESCR_COR_VEICULO	
+DESCR_MARCA_VEICULO	
+ANO_FABRICACAO	
+ANO_MODELO	
+DESCR_TIPO_VEICULO

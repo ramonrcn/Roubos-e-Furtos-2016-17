@@ -1,0 +1,52 @@
+ANO_BO	
+NUM_BO	
+NUMERO_BOLETIM	= Descartar coluna (no python ou no sql)
+BO_INICIADO	
+BO_EMITIDO	
+DATAOCORRENCIA	
+PERIDOOCORRENCIA	
+DATACOMUNICACAO	
+DATAELABORACAO	
+BO_AUTORIA	
+FLAGRANTE	
+NUMERO_BOLETIM_PRINCIPAL = Descartar coluna (no python ou no sql)	
+LOGRADOURO	
+NUMERO	
+BAIRRO	
+CIDADE	
+UF	
+LATITUDE	
+LONGITUDE	
+DESCRICAOLOCAL	
+EXAME	
+SOLUCAO	
+DELEGACIA_NOME	
+DELEGACIA_CIRCUNSCRICAO	
+ESPECIE	
+RUBRICA	
+DESDOBRAMENTO	= Descartar coluna (no python ou no sql)
+STATUS	
+NOMEPESSOA	= Descartar coluna
+TIPOPESSOA	= Descartar coluna	
+VITIMAFATAL	= Descartar coluna
+RG		= Descartar coluna
+RG_UF		= Descartar coluna
+NATURALIDADE	= Descartar coluna
+NACIONALIDADE	= Descartar coluna
+SEXO		= Descartar coluna
+DATANASCIMENTO		= Descartar coluna
+IDADE		= Descartar coluna
+ESTADOCIVIL		= Descartar coluna
+PROFISSAO		= Descartar coluna
+GRAUINSTRUCAO		= Descartar coluna
+CORCUTIS		= Descartar coluna
+NATUREZAVINCULADA	= Descartar coluna
+TIPOVINCULO		= Descartar coluna 
+PLACA_VEICULO	
+UF_VEICULO	
+CIDADE_VEICULO	
+DESCR_COR_VEICULO	
+DESCR_MARCA_VEICULO	
+ANO_FABRICACAO	
+ANO_MODELO	
+DESCR_TIPO_VEICULO
