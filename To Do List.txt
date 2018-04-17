@@ -1,5 +1,0 @@
-
-PLOTAR AS COORDENADAS LAT/LONG EM MAPA:
-Selecionar, tratar e plotar as informações de localização
-Exibir Atibaia no mapa e marcar os locais das ocorrências
-=================
